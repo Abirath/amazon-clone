@@ -1,3 +1,14 @@
+# An E-Commerece website
+A ReactJS application replicating E-Commerece website Amazon. Built for learning purpose. 
+
+Features includes: 
+- [x] Initial Home page
+- [x] Add to basket page
+- [ ] Payment processing page
+- [ ] Login/Authentication page
+
+Few more features maybe added in the future.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
